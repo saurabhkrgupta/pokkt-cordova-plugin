@@ -1,0 +1,17 @@
+{
+  "name": "com.pokkt.cordova",
+  "version": "1.0.0",
+  "description": "Cordova extension for Pokkt SDK",
+  "cordova": {
+    "id": "com.pokkt.cordova",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "pokkt"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache 2.0"
+}
